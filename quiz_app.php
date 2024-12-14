@@ -1,15 +1,15 @@
 <?php
 
-$questions = [
+// $questions = [
 
-    ['question' => 'What is 2 + 2?', 'correct' =>'4'],
+//     ['question' => 'What is 2 + 2?', 'correct' =>'4'],
 
-    ['question' => 'What is the capital of France?', 'correct' => 'Paris'],
+//     ['question' => 'What is the capital of France?', 'correct' => 'Paris'],
 
-    ['question' => 'Who wrote "Hamlet"?',
-    'correct' => 'Shakespeare'],
+//     ['question' => 'Who wrote "Hamlet"?',
+//     'correct' => 'Shakespeare'],
 
-];
+// ];
 
 $answers = [];
 foreach($questions as $index=>$question){
